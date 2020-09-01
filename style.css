@@ -1,0 +1,14 @@
+h1 {
+    color: red; 
+    margin: 50px 0 20px 60px;
+}
+.pad {
+    padding-top: 15px;
+}
+.sub{
+    margin-left: 220px;
+    color: blue;
+    background-color: chartreuse;
+}
+
+
